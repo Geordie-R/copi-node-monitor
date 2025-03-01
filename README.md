@@ -54,7 +54,7 @@ Scripts to go here once ready
 Test that your telegram bot is setup correctly by running the following.
 
 ```
-wget -O telegramtest.sh https://raw.githubusercontent.com/Geordie-R/stafi-stats/master/telegramtest.sh
+wget -O telegramtest.sh https://raw.githubusercontent.com/Geordie-R/copi-node-monitor/refs/heads/main/telegramtest.sh
 sudo chmod +x telegramtest.sh && ./telegramtest.sh
 ```
 
